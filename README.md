@@ -1,3 +1,3 @@
 # Diet_Buddy
 
-The Diet_Buddy is
+The Diet_Buddy is no
