@@ -1,3 +1,3 @@
 # Diet_Buddy
 
-The Diet_Buddy is no
+The Diet_Buddy is 수정
