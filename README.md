@@ -1,3 +1,3 @@
 # Diet_Buddy
 
-The Diet_Buddy is playstore
+The Diet_Buddy is playstor
